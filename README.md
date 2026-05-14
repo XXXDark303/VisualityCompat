@@ -1,6 +1,6 @@
 # Visuality
 
-<img align="right" width="160" src="src/main/resources/icon2.png">
+<img align="right" width="160" src="src/main/resources/icon.png">
 
 
 Visuality Compat is a fork of [Visuality Reforged](https://github.com/DragonsPlusMinecraft/VisualityReforged) with added compatibility for other mods. This is a simple client-sided cosmetic mod that will add a bunch of new
