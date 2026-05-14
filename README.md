@@ -1,6 +1,6 @@
 # Visuality: Reforged
 
-<img align="right" width="160" src="src/main/resources/pack.png">
+<img align="right" width="160" src="src/main/resources/pack2.png">
 
 [![CurseForge Downloads](https://cf.way2muchnoise.eu/full_704256_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged)
 [![Minecraft Versions](https://cf.way2muchnoise.eu/versions/704256.svg)](https://curseforge.com/minecraft/mc-mods/visuality-reforged)
