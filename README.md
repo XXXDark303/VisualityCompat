@@ -1,10 +1,15 @@
 # Visuality Compat
+<img align="right" width="160" src="pack.png">
 
-<img align="right" width="160" src="src/main/resources/pack.png">
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green)
 
 ## About
+
+
+
+
+
 
 Visuality Compat is a fork of [Visuality: Reforged](https://github.com/DragonsPlusMinecraft/VisualityReforged) with added compatibility for other mods, please support the original work.
 
