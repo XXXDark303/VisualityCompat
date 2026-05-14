@@ -1,4 +1,4 @@
-# Visuality
+# Visuality Compat
 
 <img align="right" width="160" src="src/main/resources/icon.png">
 
