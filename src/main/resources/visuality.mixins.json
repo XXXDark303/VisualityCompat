@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "refmap": "visuality.refmap.json",
+  "package": "plus.dragons.visualitycompat.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "BlockMixin",
+    "ParticleEngineMixin",
+    "SlimeMixin",
+    "WaterFluidMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
