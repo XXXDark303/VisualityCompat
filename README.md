@@ -12,3 +12,13 @@ to your Minecraft world. Expect particles collection expanding with the mod upda
 
 You can configure the mod by editing visuality.json in the config folder of your Minecraft directory or simply through
 ModMenu integration.
+
+## Feedback
+
+All feature requests should go to [Visuality](https://github.com/PinkGoosik/visuality).
+All bug reports on Forge should go to Visuality Compat.
+
+## Supported mods
+[The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) (1.0.0+)
+
+[Mutant Monsters](https://www.curseforge.com/minecraft/mc-mods/mutant-monsters) (1.0.0+)
