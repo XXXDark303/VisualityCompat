@@ -1,7 +1,7 @@
 modLoader="javafml"
 loaderVersion="[46,)"
 license="MIT"
-issueTrackerURL="https://github.com/ChannelingMC/visuality-forge/issues/"
+issueTrackerURL="https://XXXDark303/VisualityCompat/issues/"
 
 [[mods]]
     modId="visuality"
@@ -10,12 +10,12 @@ issueTrackerURL="https://github.com/ChannelingMC/visuality-forge/issues/"
     #updateJSONURL="https://change.me.example.invalid/updates.json"
     displayURL="https://github.com/XXXDark303/VisualityCompat/releases"
     logoFile="icon.png"
-    credits="Thanks LimonBlaze for the original work!"
+    credits="Thanks DragonsPlus for the original work!"
     authors="XXXDark303"
     description='''
     Little visual improvements by adding a bunch of new particles.
 
-    Fork of "Visuality: Reforged" by DragonsPlus with added compatibility for modded content
+    Fork of Visuality Reforged with added compatibility for modded content
     '''
 
 [[dependencies.visuality]]
