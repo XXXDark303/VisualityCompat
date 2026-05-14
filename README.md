@@ -2,8 +2,7 @@
 
 <img align="right" width="160" src="src/main/resources/pack.png">
 
-[![CurseForge Downloads](https://cf.way2muchnoise.eu/full_704256_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged)
-[![Minecraft Versions](https://cf.way2muchnoise.eu/versions/704256.svg)](https://curseforge.com/minecraft/mc-mods/visuality-reforged)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green)
 
 ## About
 
