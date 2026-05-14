@@ -4,30 +4,30 @@ license="MIT"
 issueTrackerURL="https://XXXDark303/VisualityCompat/issues/"
 
 [[mods]]
-    modId="visuality"
-    version="1.0.0"
-    displayName="Visuality Compat"
-    #updateJSONURL="https://change.me.example.invalid/updates.json"
-    displayURL="https://github.com/XXXDark303/VisualityCompat/releases"
-    logoFile="icon.png"
-    credits="Thanks DragonsPlus for the original work!"
-    authors="XXXDark303"
-    description='''
+modId="visuality"
+version="1.0.0"
+displayName="Visuality Compat"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+displayURL="https://github.com/XXXDark303/VisualityCompat"
+logoFile="icon.png"
+credits="Thanks DragonsPlus for the original work!"
+authors="XXXDark303"
+description='''
     Little visual improvements by adding a bunch of new particles.
 
     Fork of Visuality Reforged with added compatibility for modded content
     '''
 
 [[dependencies.visuality]]
-    modId="forge"
-    mandatory=true
-    versionRange="[46,)"
-    ordering="NONE"
-    side="BOTH"
+modId="forge"
+mandatory=true
+versionRange="[46,)"
+ordering="NONE"
+side="BOTH"
 
 [[dependencies.visuality]]
-    modId="minecraft"
-    mandatory=true
-    versionRange="[1.20,1.22)"
-    ordering="NONE"
-    side="BOTH"
+modId="minecraft"
+mandatory=true
+versionRange="[1.20,1.22)"
+ordering="NONE"
+side="BOTH"
